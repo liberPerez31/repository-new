@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\bin\Debug\net8.0\calificaciones.exe
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\bin\Debug\net8.0\calificaciones.deps.json
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\bin\Debug\net8.0\calificaciones.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\bin\Debug\net8.0\calificaciones.dll
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\bin\Debug\net8.0\calificaciones.pdb
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\calificaciones.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\calificaciones.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\calificaciones.dll
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\refint\calificaciones.dll
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\calificaciones.pdb
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\calificaciones.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\calificaciones\calificaciones\obj\Debug\net8.0\ref\calificaciones.dll

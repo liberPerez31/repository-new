@@ -1,0 +1,14 @@
+C:\Users\Lisber Perez\Desktop\loteria\loteria\bin\Debug\net8.0\loteria.exe
+C:\Users\Lisber Perez\Desktop\loteria\loteria\bin\Debug\net8.0\loteria.deps.json
+C:\Users\Lisber Perez\Desktop\loteria\loteria\bin\Debug\net8.0\loteria.runtimeconfig.json
+C:\Users\Lisber Perez\Desktop\loteria\loteria\bin\Debug\net8.0\loteria.dll
+C:\Users\Lisber Perez\Desktop\loteria\loteria\bin\Debug\net8.0\loteria.pdb
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\loteria.AssemblyInfoInputs.cache
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\loteria.AssemblyInfo.cs
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\loteria.csproj.CoreCompileInputs.cache
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\loteria.dll
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\refint\loteria.dll
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\loteria.pdb
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\loteria.genruntimeconfig.cache
+C:\Users\Lisber Perez\Desktop\loteria\loteria\obj\Debug\net8.0\ref\loteria.dll
